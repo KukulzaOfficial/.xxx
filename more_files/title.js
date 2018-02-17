@@ -16,7 +16,7 @@ function loaded() {
 
 var x = 0;
 
-var titleText = ["SWAX","1337", "hourboost", "and", "more"];
+var titleText = ["MASTERSNOW","START", "FROM", "BOTTOM"];
 
 function loop() {
 
